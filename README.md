@@ -140,3 +140,26 @@ Developed four detailed Power BI dashboards to provide a clear and thorough visu
 
 
 ---
+## Project Execution
+
+Seamlessly navigate the project with these simple steps:
+
+### Power Up with Power BI:
+
+1. **Launch Power BI Desktop:**
+   - Open Power BI Desktop.
+   - Explore and open the `PowerBI_University_Success_Analysis.pbix` file.
+
+### Dive into Data with Excel:
+
+2. **Explore Data with Excel:**
+   - Use Microsoft Excel for in-depth analysis.
+   - Open `EDA_University_Success_Analysis.xlsx` to visualize and explore data.
+
+### Uncover Project Insights:
+
+3. **Detailed Project Overview:**
+   - Gain profound insights and methodologies.
+   - Access `University_Success_Detailed_Analysis_Report.docx` for a deep understanding of the project lifecycle, covering data collection, transformation, MECE breakdown, tool integration, EDA insights, and Power BI solutions.
+
+---
