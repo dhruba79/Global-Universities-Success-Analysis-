@@ -45,7 +45,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Entity-Relationship (ER) Diagram
 
-<img src="[https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/75ba0c75-490e-4733-bd5d-4574085c6fe9" alt="ER Diagram" width="1200](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/er%20diagram.png?raw=true)">
+<img src="https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/er%20diagram.png?raw=true">
 
 *The Entity-Relationship (ER) Diagram illustrates interconnected data entities, providing a visual guide to relationships between countries, universities, ranking systems, criteria, and their dynamic interactions in global higher education.*
 
