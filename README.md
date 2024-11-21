@@ -114,14 +114,14 @@ Developed four detailed Power BI dashboards to provide a clear and thorough visu
 ### **1. Country Analysis Dashboard:**
    - Visualizes ranking trends and metrics based on countries.
      
-  ![country_analysis]([https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/874ec900-3f7f-4504-bb34-02288e6f754e](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/country_analysis.jpg?raw=true))
+  ![country_analysis]([https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/country_analysis.jpg?raw=true)
 
 ---
 
 ### **2. University Analysis Dashboard:**
    - Offers insights into individual university performance and metrics.
      
-![university_analysis]([https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dc87181-7a65-4609-a81b-3b0b5f732ddd](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/university_analysis.jpg?raw=true))
+![university_analysis](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/university_analysis.jpg?raw=true)
 
 
 ---
