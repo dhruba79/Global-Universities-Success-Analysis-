@@ -29,7 +29,7 @@ This project holds significant implications for gaining insights into and enhanc
 
 ### Mutually Exclusive, Collectively Exhaustive (MECE) Approach
 
-![mece]([https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/0dea950f-d01b-4dc8-8714-4c542f43753e](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/mece.png?raw=true))
+![mece](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/mece.png?raw=true)
 
 *The MECE diagram outlines the structured approach applied in dissecting and evaluating the dataset. This method ensures that every component is distinct (Mutually Exclusive) while covering all possibilities (Collectively Exhaustive). It serves as the foundation for uncovering valuable insights and patterns across various dimensions, contributing to a comprehensive understanding of the data.*
 
