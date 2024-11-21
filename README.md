@@ -5,4 +5,4 @@ Comprehensive global analysis of university success utilizing **Power BI, Excel,
 
 ---
 
-https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/old-masters-picture-gallery-dresden-night.jpg?raw=true
+![old-masters-picture-gallery-dresden-night.jpg](https://github.com/dhruba79/Global-Universities-Success-Analysis-/blob/main/assets/old-masters-picture-gallery-dresden-night.jpg?raw=true)
